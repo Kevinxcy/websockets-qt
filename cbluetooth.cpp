@@ -25,7 +25,7 @@ cbluetooth::cbluetooth(QObject *parent) : QObject(parent)
 
 cbluetooth::~cbluetooth()
 {
-
+	int  use_note =0x00;
 }
 
 void cbluetooth::DiscovereddeviceNotify(const QBluetoothDeviceInfo &info)
