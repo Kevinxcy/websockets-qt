@@ -3,8 +3,11 @@
 #include <qbluetoothaddress.h>
 #include <qbluetoothdevicediscoveryagent.h>
 #include <qbluetoothlocaldevice.h>
-
 #include <QMessageBox>
+
+
+//add git use, good luck ！
+//bye ... ... 
 
 cbluetooth::cbluetooth(QObject *parent) : QObject(parent)
 {
