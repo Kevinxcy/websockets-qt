@@ -5,6 +5,8 @@
 QT_FORWARD_DECLARE_CLASS(QBluetoothDeviceDiscoveryAgent)
 QT_FORWARD_DECLARE_CLASS(QBluetoothDeviceInfo)
 
+#include <string>
+#include <vector>
 #include <QObject>
 #include <QMap>
 
